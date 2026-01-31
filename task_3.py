@@ -4,7 +4,7 @@ import sys
 # ---------- НАЛАШТУВАННЯ ----------
 WIDTH = 800
 HEIGHT = 600
-BLUE = (0, 150, 255)
+BLUE = ("black")
 SPEED = 5
 
 
